@@ -1,7 +1,7 @@
 {
-  "name": "weather-cli",
+  "name": "weather-cli-test",
   "version": "1.0.0",
-  "description": "CLI fo getting weather",
+  "description": "CLI для получения погоды",
   "main": "weather.js",
   "bin": {
     "weather": "weather.js"
