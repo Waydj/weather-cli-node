@@ -19,10 +19,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Waydj/weather-cli-node"
   },
   "bugs": {
-    "url": "",
     "email": "cherepanov-aleks@list.ru"
   },
   "dependencies": {
